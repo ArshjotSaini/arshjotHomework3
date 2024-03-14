@@ -8,12 +8,12 @@ There are three buttons available on the right hand side of the screen:- Insert,
 
 **Insert:-**
 
-If want to insert any new value you can click on any of the company and you can add the new information according to the field.
+If want to insert any new company name you can select fiels and can put on the information in the fields according to the company and hit the button.
 
 **Delete:-**
 
-To delete any of the field just select that field and click on the delete button.
+To delete any of the company or it's information just select that field and click on the delete button.
 
 **Update:-**
 
-For updating any of the informationclick on the company name and select the field you want to change, after changing the value of that field press update.
+For updating any of the company click on the company name and select the field you want to update, after changing the value of that field press update.
